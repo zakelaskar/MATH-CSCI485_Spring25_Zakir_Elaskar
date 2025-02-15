@@ -1,8 +1,8 @@
-Overview
+Overview:
 This project applies Principal Component Analysis (PCA) and t-SNE to the UCI Wine Quality dataset to explore dimensionality reduction techniques and visualize high-dimensional data.
 
 
-Dataset
+Dataset:
 The dataset is obtained from the UCI Machine Learning Repository and contains physicochemical properties of red and white wine samples, along with their quality ratings.
 
 
