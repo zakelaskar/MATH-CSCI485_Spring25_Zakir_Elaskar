@@ -6,8 +6,8 @@ Dataset:
 The dataset is obtained from the UCI Machine Learning Repository and contains physicochemical properties of red and white wine samples, along with their quality ratings.
 
 
-Implementation Steps
-1. Data Preprocessing
+Implementation Steps:
+1. Data Preprocessing:
 
 
 •	Load red and white wine datasets.
@@ -16,7 +16,7 @@ Implementation Steps
 
 •	Normalize features using StandardScaler.
 
-2. PCA Analysis
+2. PCA Analysis:
 
 •	Apply PCA to reduce dimensions to 2D and 3D.
 
@@ -24,13 +24,13 @@ Implementation Steps
 
 •	Visualize PCA results with scatter plots.
 
-3. t-SNE Analysis
+3. t-SNE Analysis:
 
 •	Apply t-SNE for 2D representation.
 
 •	Compare t-SNE with PCA in terms of clustering and interpretability.
 
-4. Results & Discussion
+4. Results & Discussion:
 
 •	Discuss the trade-offs between PCA and t-SNE.
 
